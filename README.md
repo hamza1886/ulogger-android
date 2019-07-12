@@ -2,7 +2,7 @@
 
 μlogger [*micro-logger*] is an android application for continuous logging of location coordinates, designed to record hiking, biking tracks and other outdoor activities. 
 Application works in background. Track points are saved at chosen intervals and may be uploaded to dedicated server in real time.
-This client works with [μlogger web server](https://github.com/bfabiszewski/ulogger-server). 
+This client works with [μlogger web server](https://github.com/hamza1886/ulogger-server). 
 Together they make a complete self owned and controlled client–server solution.
 
 ## Features
